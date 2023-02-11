@@ -20,3 +20,6 @@ rxn-subscription@10274u0a274K6440619NAJNOM
 rxn-subscription@10288u0a28815745182CEDEUT
 10 days aprovel 7 faruary start 
 rxn-subscription@10251u0a251C9320119NAJNOM
+
+rxn-subscription@10342u0a34263732202CEDEUT
+15 days 11 faruary start
